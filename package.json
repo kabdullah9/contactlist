@@ -1,0 +1,19 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabdullah9/contactlist.git"
+  },
+  "author": "khaalid abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabdullah9/contactlist/issues"
+  },
+  "homepage": "https://github.com/kabdullah9/contactlist#readme"
+}
